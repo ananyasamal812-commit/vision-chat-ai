@@ -13,7 +13,7 @@ A full-stack AI application that allows users to:
 
 Frontend:
 - React.js
-- CSS (ChatGPT-style UI)
+- CSS
 
 Backend:
 - FastAPI
@@ -41,3 +41,6 @@ Database:
 ```bash
 git clone https://github.com/YOUR_USERNAME/vision-chat-ai.git
 cd vision-chat-ai
+
+
+
