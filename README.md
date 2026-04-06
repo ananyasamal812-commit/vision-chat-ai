@@ -59,7 +59,7 @@ cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
-###🔹 3. Run Frontend
+### 🔹 3. Run Frontend
 
 ```bash
 cd frontend
